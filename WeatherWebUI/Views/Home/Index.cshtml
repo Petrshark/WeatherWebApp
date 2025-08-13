@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WeatherDataRecord>
+@using System.Text.Json;
+
+@{
+    ViewData["Title"] = "Weather Data";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Stažená data z meteostanice</h1>
+</div>
+
+<form asp-controller="Home" asp-action="DownloadData" method="post">
+    <button type="submit" class="btn btn-primary mb-3">Stáhnout nová data</button>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Čas stažení</th>
+            <th>Stav meteostanice</th>
+            <th>Detail dat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.Id</td>
+                <td>@record.DownloadTimestamp.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                <td>@(record.IsStationOnline ? "Online" : "Offline")</td>
+                <td>
+                    @if (record.JsonData != null)
+                    {
+                        try
+                        {
+                            var jsonData = JsonDocument.Parse(record.JsonData).RootElement;
+                            var sensors = jsonData.GetProperty("Input").GetProperty("Sensors");
+
+                            <table class="table table-bordered table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Název</th>
+                                        <th>Typ</th>
+                                        <th>Hodnota</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var sensor in sensors.EnumerateArray())
+                                    {
+                                        if (sensor.GetProperty("Type").GetString() != "ping")
+                                        {
+                                            <tr>
+                                                <td>@sensor.GetProperty("Name").GetString()</td>
+                                                <td>@sensor.GetProperty("Type").GetString()</td>
+                                                <td>@sensor.GetProperty("Value").GetString()</td>
+                                            </tr>
+                                        }
+                                    }
+                                </tbody>
+                            </table>
+                        }
+                        catch
+                        {
+                            <span>Chyba při parsování JSON dat.</span>
+                        }
+                    }
+                    else
+                    {
+                        <span>Data nebyla stažena, meteostanice byla offline.</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

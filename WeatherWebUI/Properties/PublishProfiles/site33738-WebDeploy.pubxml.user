@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Tento soubor je používán procesem publikování nebo balení webového projektu. Chování tohoto procesu můžete přizpůsobit
+úpravou tohoto souboru MSBuild. Další informace o tomto procesu najdete na webu https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9v5Mnk+sw02SHd1JM+8vkgAAAAACAAAAAAAQZgAAAAEAACAAAAAzo7YiX3ZOAEUhmES7RJ40mp8tG5Ul2Lbhx+tGm48jvAAAAAAOgAAAAAIAACAAAACbB1Kn7jPy9Q8unvXynSMOJ+Q2sARpgQcSr3gtXdKr/iAAAADkUVHVGDqE/xuBakhOnO8nrhhghVJbKZxhQ2STV7Ha4UAAAADdRTqsb0LUFojVEYZqfnGwAMvzcsJ+NSPQWTbl0t9Fuyv18jXdjIo89pfcvIMWvWO6dgKUcRO3MtYkqQjW9LuO</EncryptedPassword>
+    <History>True|2025-08-12T21:04:29.5407720Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MonsterDBConnection">
+      <Value>Server=db25275.public.databaseasp.net%3b Database=db25275%3b User Id=db25275%3b Password=mK+9Y5s%40g_2G%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

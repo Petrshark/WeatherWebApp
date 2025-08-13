@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\manualdownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\manualdownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\weathermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\weathermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|c:\\users\\petrc\\source\\repos\\weatherwebui\\weatherwebui\\migrations\\20250811175117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D49B2-635F-4415-8572-6D177E95DFD2}|WeatherWebUI\\WeatherWebUI.csproj|solutionrelative:weatherwebui\\migrations\\20250811175117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherWebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\appsettings.json",
+              "RelativeToolTip": "WeatherWebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T20:59:56.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManualDownloadService.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\ManualDownloadService.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\ManualDownloadService.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\ManualDownloadService.cs",
+              "RelativeToolTip": "WeatherWebUI\\ManualDownloadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:35:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherWebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T17:49:58.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Program.cs",
+              "RelativeToolTip": "WeatherWebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:49:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherModels.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\WeatherModels.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\WeatherModels.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\WeatherModels.cs",
+              "RelativeToolTip": "WeatherWebUI\\WeatherModels.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:47:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\WeatherService.cs",
+              "RelativeToolTip": "WeatherWebUI\\WeatherService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:47:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Worker.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Worker.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Worker.cs",
+              "RelativeToolTip": "WeatherWebUI\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:48:48.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WeatherWebUI\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:47:17.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeatherWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T15:41:26.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WeatherWebUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:44:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "WeatherWebUI\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "WeatherWebUI\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T15:40:43.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250811175117_Init.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Migrations\\20250811175117_Init.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Migrations\\20250811175117_Init.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Migrations\\20250811175117_Init.cs",
+              "RelativeToolTip": "WeatherWebUI\\Migrations\\20250811175117_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:51:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WeatherWebUI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WeatherWebUI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T15:43:09.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherWebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\petrc\\source\\repos\\WeatherWebUI\\WeatherWebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherWebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:49:36.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

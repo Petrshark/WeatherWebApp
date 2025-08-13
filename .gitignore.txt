@@ -1,0 +1,10 @@
+# Visual Studio
+*.vsix
+.vs/
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
